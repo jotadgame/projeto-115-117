@@ -1,0 +1,26 @@
+.body 
+{
+  background-color: crimson;   
+}
+.header_div 
+{
+    background-color: blue;
+    color: darkViolet;
+}
+.header_div p 
+{
+   font-family: Arial;
+   font-weight: 500;
+   font-size: larger;
+}
+.main_div button
+{
+ font-family: arial;
+ margin-top: auto;
+ font-weight: 500;
+}
+.copy_right_footer footer
+{
+  background-color: crimson;
+  color: crimson;
+}
